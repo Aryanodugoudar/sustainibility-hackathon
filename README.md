@@ -3,4 +3,5 @@ This repo helps beginners and citizen data scientists to build machine learning 
 
 
 
-#### Data source: https://github.com/jojo62000/Smarter_Decisions/
+
+
